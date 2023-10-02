@@ -1,4 +1,6 @@
 # k8s_end2end_front-backend
 
 
-data/db directory within the container ttto test
+monitor the live changes on frontend (adding or deleting dbs )by checking logs on db-bckend on terminal
+
+k logs -f mongodb-deployment-68d675ddd7-2m49t
