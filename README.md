@@ -5,6 +5,9 @@
 default username passwrd >> get inside container , find in file :::
 config.default.js
 
+[ admin , pass ]
+
+
 monitor the live changes on frontend (adding or deleting dbs )by checking logs on db-bckend on terminal
 
 k logs -f mongodb-deployment-68d675ddd7-2m49t
